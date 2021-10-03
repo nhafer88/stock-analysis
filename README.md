@@ -1,16 +1,22 @@
 ![stock_exchange](resources/stock_exchange.png)
-# Finding the Green, Data Analysis on Green Stocks 
+# Finding the Green, Data Analysis on Green Energy Stocks
 
-## Project Overview
-
-### Purpose and Background
-* Reveal trends/strategies for starting a successful Kickstarter Theater campaign.
-* Focus of the analysis will be on 1) Outcomes based on launch date of theater campaign and 2) Outcomes based on theater campaign funding goals
-* Analysis conducted with use of Microsoft Excel.
+## Project Overview: Purpose and Background
+* This project provides analysis on list green energy stocks, looking at their volumes and returns for 2017 and 2018.  
+* The information from this analysis may aid in expanding investment knowledge.
+* The analysis was conducted using Excel and VBA programming.
 
 ## Results
-* Comparisons between 2017 and 2018 
-* Comparisons beween Original script and refactored script (execution times)
+### Comparing Green Stocks Returns Between 2017 and 2018
+* There were more positive returns for these green energy stocks during 2017 compared to more negative returns during 2018.
+  * One possible reason for this difference of returns between 2017 and 2018 was due to the Great Recession began in Decemeber 2017.
+* The two stocks that were able to show positive returns in 2018 were SunRun, Inc.(RUN) and Enphase Energy, Inc.(ENPH).
+  * Unlike all the green stocks, RUN saw an increase in return compared to the previous year.
+### Comparing Executuion Times of Original Script and Refactored Script
+* The execution times for the refactored script (seen in the images below) ran faster than the original script
+  * Refactored script times: 0.082 seconds (2017 data) and 0.078 seconds (2018 data)
+  * Original script times: 0.660 seconds (2017 data) and 0.668 seconds (2018 data)
+
 ![VBA_Challenge_2017](resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
 
