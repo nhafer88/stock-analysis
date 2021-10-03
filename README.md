@@ -1,4 +1,4 @@
-![theater_pic](theater_pic.png)
+![stock_exchange](resources/stock_exchange.png)
 # Finding the Green, Data Analysis on Green Stocks 
 
 ## Project Overview
@@ -11,8 +11,8 @@
 ## Results
 * Comparisons between 2017 and 2018 
 * Comparisons beween Original script and refactored script (execution times)
-![outcomes_vs_goals](resources/outcomes_vs_goals.png)
-![outcomes_vs_goals](resources/outcomes_vs_goals.png)
+![VBA_Challenge_2017](resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
 
 ## Conclusion: Pros and Cons of Refactoring Code
 * What are...? 
